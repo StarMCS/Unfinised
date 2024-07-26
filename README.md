@@ -1,4 +1,4 @@
 # Unfinished
 The amount of time wasted on this...
 
-Providing a more interactive and rewarding experience
+Providing a more effective and rewarding experience 
